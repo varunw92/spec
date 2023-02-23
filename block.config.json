@@ -1,0 +1,8 @@
+{
+  "name": "spec",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/varunw92/spec",
+    "ssh": "git@github.com:varunw92/spec.git"
+  }
+}
